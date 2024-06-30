@@ -1,0 +1,30 @@
+body {
+    background-color: #708090;
+}
+
+.dashboard-container {
+    width: 1400px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #010103;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: "Poppins";
+    color: #ffffff;
+    font-size: 35px;
+    margin: 15px;
+}
+
+p {
+    font-family: "Poppins";
+    color: #ffffff;
+    font-size: 16px;
+    margin: 15px;
+    text-align: justify;
+}
